@@ -75,7 +75,7 @@ void OnTick()
      }
    int buyLegCount = BuyLeg.GetCount();
    int sellLegCount = SellLeg.GetCount();
-   BuyLeg.On_Tick(SellLegCount);
+   BuyLeg.On_Tick(sellLegCount);
    SellLeg.On_Tick(buyLegCount);
 
    return;
