@@ -5,8 +5,7 @@ Include/Trade/TradeCustom.mqh
 Include/Trade/SymbolInfoCustom.mqh
 Include/Trade/PositionInfoCustom.mqh
 Include/Trade/PositionData.mqh
-Include/Trade/mql4/Trade_MQL4.mqh
-Include/Trade/mql4/SymbolInfo_MQL4.mqh
+Include/Trade/mql4/
 Include/Persistence/GVar.mqh
 Include/Expert/LegBase.mqh
 Include/Common/Enums.mqh
